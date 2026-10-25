@@ -4,9 +4,8 @@ AI-assisted security scanner for Solidity smart contracts. It checks a contract 
 
 Built for **CRECENDO Hackathon by Metapoise V2.0** (DUIET, Dibrugarh University), Track A, problem statement **PS-S02: AI-Powered Smart Contract Auditor**.
 
-- Live demo: [add Vercel URL]
-- Demo video: [add link]
-- AuditRegistry on Sepolia: [add contract address and Etherscan link]
+- Live demo: https://contract-auditor-solidity.vercel.app/
+- AuditRegistry on Sepolia: https://sepolia.etherscan.io/address/0xA7Bf87aEEf7957c77567652b54B482a4Ba8Da35e
 
 ## What it does
 
