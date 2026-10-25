@@ -1,0 +1,44 @@
+@import "tailwindcss";
+
+:root {
+  --bg-main: #F3F4F2;
+  --bg-panel: #FFFFFF;
+  --text-main: #1C2321;
+  --text-muted: #59615E;
+  --border-color: #D6D8D3;
+  --accent-pine: #2F5D50;
+  --accent-pine-hover: #264A40;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: var(--bg-main);
+  color: var(--text-main);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code, pre, .font-mono {
+  font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
+}
+
+/* Custom scrollbars that match the warm neutral theme */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #EAECE8;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #C4C8C1;
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #AAB0A6;
+}

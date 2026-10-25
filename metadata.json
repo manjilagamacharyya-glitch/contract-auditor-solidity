@@ -1,0 +1,6 @@
+{
+  "name": "Contract Auditor",
+  "description": "AI-powered Solidity smart contract auditor for detecting vulnerabilities, generating reports, and anchoring audit trails on Sepolia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
