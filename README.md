@@ -230,4 +230,4 @@ Every non-production branch gets its own Vercel preview deployment, so changes c
 
 ## Team
 
-[Team name] | [Member names] | CRECENDO Hackathon by Metapoise V2.0
+NEXUS | Manjil Agamacharyya | Disha Dutta | Samir Das | Metapoise V2.0
