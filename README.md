@@ -87,7 +87,6 @@ contract-auditor-solidity/
 │   ├── App.tsx
 │   ├── main.tsx
 │   └── index.css
-├── .env.example              Names of required environment variables
 ├── vercel.json               Build config and SPA rewrite (excludes /api)
 ├── vite.config.ts
 ├── tsconfig.json
